@@ -18,6 +18,7 @@
   <modules>
     <module>chapter02-samples</module>
     <module>chapter02-putting-together</module>
+    <module>my-chapter02</module>
   </modules>
 
 </project>
